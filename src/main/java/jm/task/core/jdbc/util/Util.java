@@ -10,9 +10,9 @@ public class Util {
 
     private static final String USERNAME = "root";
 
-    private static final String PASSWORD = "greenfrog13$";
+    private static final String PASSWORD = "root";
 
-    public static String driver = "com.mysql.cj.jdbc.Driver";
+    private static final String driver = "com.mysql.cj.jdbc.Driver";
 
     public static Connection getConnection() {
 
